@@ -1,0 +1,7 @@
+{
+    "name": "nimesh/php-aws-codepipeline",
+    "description": "echo \"# php-aws-codepipeline\" >> README.md",
+    "require": {
+        "nesbot/carbon": "^2.30"
+    }
+}
